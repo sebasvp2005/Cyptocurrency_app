@@ -12,7 +12,7 @@ st.title("Coin Market")
 st.markdown("""
 This app retrieves information of **CoinMarketCap**
             
-You can select your favorite cryptocurrency coins in the left sidebar and the the information will display""")
+You can select your favorite cryptocurrencies in the left sidebar and the information will displayed""")
 
 about = st.expander('About')
 about.markdown("""
